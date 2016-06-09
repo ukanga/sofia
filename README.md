@@ -1,2 +1,2 @@
 # sofia
-Sofia early childhood development bot
+Sofia early childhood development bot.
